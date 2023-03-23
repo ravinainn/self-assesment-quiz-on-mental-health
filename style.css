@@ -26,6 +26,7 @@
 }
 #quesBox{
     margin-bottom: 15px;
+    font-size: 2vw;
 }
 #box{
     
@@ -40,6 +41,8 @@
     width:100%;
     margin: 0.64rem;
     margin-left: 0;
+    font-size: 1vw;
+    font-weight:400;
     padding: 10px;
     color: #fff;
     background-color: #13005A;
