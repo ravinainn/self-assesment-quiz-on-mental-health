@@ -16,7 +16,7 @@
 /* 1FB4BB; */
 .bbox{
     width:70%;
-    background-image: url(/quiz_border.jpg);
+    background-image: url(/images/quiz_border.jpg);
     border-radius:5px ;
     padding: 5rem;
     display: flex;
