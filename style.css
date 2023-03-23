@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.quiz{
+    
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #E3F8F8;
+}
+/* 1FB4BB; */
+.bbox{
+    width:70%;
+    background-image: url(/quiz_border.jpg);
+    border-radius:5px ;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    box-shadow: 5px 4px 15px grey;
+}
+#quesBox{
+    margin-bottom: 15px;
+}
+#box{
+    
+    padding: 1.5rem;
+    padding:2rem;
+    background-color: whitesmoke;
+    width:100%; 
+    box-shadow: 0px 0px 5px black ;
+    border-radius: 6px;
+}
+.row{
+    width:100%;
+    margin: 0.64rem;
+    margin-left: 0;
+    padding: 10px;
+    color: #fff;
+    background-color: #13005A;
+    border: none;
+    border-radius: 20px;
+}
+label{
+    font-size: 1.5vw;
+    
+}
+
+/* [type="radio"] {
+    border: 0; 
+    clip: rect(0 0 0 0); 
+    height: 1px; margin: -1px; 
+    overflow: hidden; 
+    padding: 0; 
+    position: absolute; 
+    width: 1px;
+  }   */
+
+.btn{
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    background-color: #3498db;
+    border-radius: 5px;
+}
